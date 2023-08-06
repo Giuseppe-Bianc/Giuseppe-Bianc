@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Giuseppe Binaconi i'm of Italian origins to precise from the Basilicata region, i wase born on  09/04/01 and at the moment i'm attending the Unibas university in the Dimie faculty for the degree in computer science and i'm currently in my second year and my repos deals whit c++, java, c# and kotlin  for the most part
+
 <!--
 **Giuseppe-Bianc/Giuseppe-Bianc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
