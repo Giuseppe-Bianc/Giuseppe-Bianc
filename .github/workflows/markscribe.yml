@@ -2,29 +2,37 @@ name: markscribe
 
 on:
   push:
+  workflow_dispatch:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: '0 0 * * *'
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@master
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-      - uses: muesli/readme-scribe@master
+      - name: Generate README
+        uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{  secrets.METRICS_TOKEN  }}
         with:
           template: "README.tpl"
           writeTo: "README.md"
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Get current date
+        id: date
+        run: echo "TAG_NAME=update-$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
         env:
           GITHUB_TOKEN: ${{  secrets.METRICS_TOKEN  }}
         with:
           commit_message: Update generated README
-          branch: main
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
+          tagging_message: ${{ env.TAG_NAME }}
+          push_options: --follow-tags
