@@ -54,4 +54,3 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 {{- end}}
 
 ![](https://komarev.com/ghpvc/?username=Giuseppe-Bianc&abbreviated=true&style=for-the-badge)
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
