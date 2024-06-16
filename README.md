@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 ### LeetCode
 
 ![GIUSEPPE BIANCONI's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/Giuseppe-Bianc?theme=neutral)
-[![](https://visitcount.itsvg.in/api?id=Giuseppe-Bianc&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Giuseppe-Bianc&abbreviated=true&style=for-the-badge)
 <!--
 **Giuseppe-Bianc/Giuseppe-Bianc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
