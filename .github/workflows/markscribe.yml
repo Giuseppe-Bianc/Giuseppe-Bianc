@@ -22,9 +22,12 @@ jobs:
           template: 'README.gtpl'
           writeTo: 'README.md'
 
-      - name: Commit README
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
         with:
-          commit_message: 'markscribe: update README.md'
+          commit_message: Update generated README
+          branch: master
+          commit_user_name: readme-scribe 🤖
+          commit_user_email: actions@github.com
+          commit_author: readme-scribe 🤖 <actions@github.com>
