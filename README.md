@@ -62,4 +62,3 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [powershell confuguration](https://gist.github.com/04fd62a389ef6ec20deb5d8a05af6bb9) (2 years ago)
 
 ![](https://komarev.com/ghpvc/?username=Giuseppe-Bianc&abbreviated=true&style=for-the-badge)
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
