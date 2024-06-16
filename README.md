@@ -53,10 +53,6 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/enigmasha256](https://github.com/Giuseppe-Bianc/enigmasha256) - a program on  encription using the enigma macine algorit and the sha256 encription algoritm
 
 
-#### 🔭 Latest releases I've contributed to
-
-
-#### 🔨 My recent Pull Requests
 
 
 
