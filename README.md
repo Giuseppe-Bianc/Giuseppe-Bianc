@@ -1,9 +1,10 @@
-### Hi there 👋
+# 💫 About Me
 
-My name is Giuseppe Binaconi i'm of Italian origins to precise from the Basilicata region, i wase born on  09/04/01 and at the moment i'm attending the Unibas university in the Dimie faculty for the degree in computer science and i'm currently in my second year and my repos deals whit c++, java, c# and kotlin  for the most part
+My name is Giuseppe Binaconi, and I am proud to be of Italian descent, specifically from the picturesque Basilicata region, renowned for its stunning landscapes and rich cultural heritage. I was born on April 9, 2001, in a small town nestled in the heart of Basilicata, a place that has profoundly shaped my values and outlook on life.<br><br>I am currently in my third year at the Università degli Studi della Basilicata (Unibas), where I am pursuing a degree in Computer Science within the esteemed Dimie Faculty. My academic journey at Unibas has been both challenging and rewarding, and it has equipped me with a solid foundation in computer science principles and practices.
 
 
 ![Metrics](/github-metrics.svg)
+[![](https://visitcount.itsvg.in/api?id=Giuseppe-Bianc&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--
 **Giuseppe-Bianc/Giuseppe-Bianc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
