@@ -31,13 +31,13 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (1 day ago)
 - [Giuseppe-Bianc/GLVEX](https://github.com/Giuseppe-Bianc/GLVEX) -  (1 month ago)
 - [Giuseppe-Bianc/cii](https://github.com/Giuseppe-Bianc/cii) -  (2 months ago)
-- [Giuseppe-Bianc/rusts](https://github.com/Giuseppe-Bianc/rusts) -  (2 months ago)
 - [Giuseppe-Bianc/loki](https://github.com/Giuseppe-Bianc/loki) -  (2 months ago)
+- [Giuseppe-Bianc/rusts](https://github.com/Giuseppe-Bianc/rusts) -  (2 months ago)
 - [Giuseppe-Bianc/Vulkc](https://github.com/Giuseppe-Bianc/Vulkc) - a modern c&#43;&#43;20  vulkan app (3 months ago)
 - [Giuseppe-Bianc/enigmasha256](https://github.com/Giuseppe-Bianc/enigmasha256) - a program on  encription using the enigma macine algorit and the sha256 encription algoritm (6 months ago)
-- [Giuseppe-Bianc/tetess](https://github.com/Giuseppe-Bianc/tetess) -  (6 months ago)
 - [Giuseppe-Bianc/TutorialApi](https://github.com/Giuseppe-Bianc/TutorialApi) - Repo on a tutorial on API development in Java (7 months ago)
 - [Giuseppe-Bianc/AngularPortafolioWebsite](https://github.com/Giuseppe-Bianc/AngularPortafolioWebsite) -  (7 months ago)
+- [Giuseppe-Bianc/spotify-clone](https://github.com/Giuseppe-Bianc/spotify-clone) -  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -48,9 +48,9 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/Vulkc](https://github.com/Giuseppe-Bianc/Vulkc) - a modern c&#43;&#43;20  vulkan app
 - [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler
 - [Giuseppe-Bianc/enigmasha256](https://github.com/Giuseppe-Bianc/enigmasha256) - a program on  encription using the enigma macine algorit and the sha256 encription algoritm
-- [Giuseppe-Bianc/tetess](https://github.com/Giuseppe-Bianc/tetess) - 
 - [Giuseppe-Bianc/TutorialApi](https://github.com/Giuseppe-Bianc/TutorialApi) - Repo on a tutorial on API development in Java
 - [Giuseppe-Bianc/AngularPortafolioWebsite](https://github.com/Giuseppe-Bianc/AngularPortafolioWebsite) - 
+- [Giuseppe-Bianc/spotify-clone](https://github.com/Giuseppe-Bianc/spotify-clone) - 
 
 
 
