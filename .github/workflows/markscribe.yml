@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   # Schedule updates (every 6 hours)
-  schedule: [{cron: "0 */6 * * *"}]
+  schedule: [{cron: "0 */1 * * *"}]
 
 jobs:
   markscribe:
