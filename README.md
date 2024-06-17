@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 👷 Check out what I'm currently working on
 
-- [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (1 day ago)
+- [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (today)
 - [Giuseppe-Bianc/GLVEX](https://github.com/Giuseppe-Bianc/GLVEX) -  (1 month ago)
 - [Giuseppe-Bianc/cii](https://github.com/Giuseppe-Bianc/cii) -  (2 months ago)
 - [Giuseppe-Bianc/rusts](https://github.com/Giuseppe-Bianc/rusts) -  (2 months ago)
