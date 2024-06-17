@@ -3,8 +3,8 @@ name: markscribe
 on:
   push:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *'
+  # Schedule updates (every 6 hours)
+  schedule: [{cron: "0 */6 * * *"}]
 
 jobs:
   markscribe:
