@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/TutorialApi](https://github.com/Giuseppe-Bianc/TutorialApi) - Repo on a tutorial on API development in Java (7 months ago)
 - [Giuseppe-Bianc/AngularPortafolioWebsite](https://github.com/Giuseppe-Bianc/AngularPortafolioWebsite) -  (7 months ago)
 - [Giuseppe-Bianc/corso-angular](https://github.com/Giuseppe-Bianc/corso-angular) -  (7 months ago)
-- [Giuseppe-Bianc/food-course](https://github.com/Giuseppe-Bianc/food-course) -  (7 months ago)
+- [Giuseppe-Bianc/panebuonoAng](https://github.com/Giuseppe-Bianc/panebuonoAng) -  (7 months ago)
 
 #### 🌱 My latest projects
 
