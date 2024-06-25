@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 👷 Check out what I'm currently working on
 
-- [Giuseppe-Bianc/SGLDM](https://github.com/Giuseppe-Bianc/SGLDM) -  (today)
+- [Giuseppe-Bianc/SGLDM](https://github.com/Giuseppe-Bianc/SGLDM) - opengl simple renderer (today)
 - [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (1 day ago)
 - [Giuseppe-Bianc/testp](https://github.com/Giuseppe-Bianc/testp) -  (1 week ago)
 - [Giuseppe-Bianc/GLVEX](https://github.com/Giuseppe-Bianc/GLVEX) -  (1 month ago)
@@ -41,7 +41,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 🌱 My latest projects
 
-- [Giuseppe-Bianc/SGLDM](https://github.com/Giuseppe-Bianc/SGLDM) - 
+- [Giuseppe-Bianc/SGLDM](https://github.com/Giuseppe-Bianc/SGLDM) - opengl simple renderer
 - [Giuseppe-Bianc/testp](https://github.com/Giuseppe-Bianc/testp) - 
 - [Giuseppe-Bianc/GLVEX](https://github.com/Giuseppe-Bianc/GLVEX) - 
 - [Giuseppe-Bianc/cii](https://github.com/Giuseppe-Bianc/cii) - 
