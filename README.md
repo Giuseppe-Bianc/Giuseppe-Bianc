@@ -28,8 +28,8 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 👷 Check out what I'm currently working on
 
-- [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (today)
-- [Giuseppe-Bianc/vkl](https://github.com/Giuseppe-Bianc/vkl) - a  vulkan.hpp  renderer (2 days ago)
+- [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (1 day ago)
+- [Giuseppe-Bianc/vkl](https://github.com/Giuseppe-Bianc/vkl) - a  vulkan.hpp  renderer (3 days ago)
 - [Giuseppe-Bianc/vulkrt](https://github.com/Giuseppe-Bianc/vulkrt) -  (3 weeks ago)
 - [Giuseppe-Bianc/SDLRT](https://github.com/Giuseppe-Bianc/SDLRT) - a sdl raytracer using c&#43;&#43;20 (1 month ago)
 - [Giuseppe-Bianc/SGLDM](https://github.com/Giuseppe-Bianc/SGLDM) - opengl simple renderer (2 months ago)
@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/GLVEX](https://github.com/Giuseppe-Bianc/GLVEX) -  (4 months ago)
 - [Giuseppe-Bianc/cii](https://github.com/Giuseppe-Bianc/cii) -  (5 months ago)
 - [Giuseppe-Bianc/rusts](https://github.com/Giuseppe-Bianc/rusts) -  (5 months ago)
-- [Giuseppe-Bianc/Vulkc](https://github.com/Giuseppe-Bianc/Vulkc) - a modern c&#43;&#43;20  vulkan app (5 months ago)
+- [Giuseppe-Bianc/Vulkc](https://github.com/Giuseppe-Bianc/Vulkc) - a modern c&#43;&#43;20  vulkan app (6 months ago)
 
 #### 🌱 My latest projects
 
