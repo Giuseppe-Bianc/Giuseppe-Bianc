@@ -28,6 +28,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 👷 Check out what I'm currently working on
 
+- [Giuseppe-Bianc/rvandior](https://github.com/Giuseppe-Bianc/rvandior) -  (today)
 - [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (1 day ago)
 - [Giuseppe-Bianc/MPortfilio](https://github.com/Giuseppe-Bianc/MPortfilio) -  (5 days ago)
 - [Giuseppe-Bianc/PPortfolio](https://github.com/Giuseppe-Bianc/PPortfolio) -  (1 week ago)
@@ -37,10 +38,10 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/SGLDM](https://github.com/Giuseppe-Bianc/SGLDM) - opengl simple renderer (4 months ago)
 - [Giuseppe-Bianc/testp](https://github.com/Giuseppe-Bianc/testp) -  (5 months ago)
 - [Giuseppe-Bianc/GLVEX](https://github.com/Giuseppe-Bianc/GLVEX) -  (6 months ago)
-- [Giuseppe-Bianc/cii](https://github.com/Giuseppe-Bianc/cii) -  (8 months ago)
 
 #### 🌱 My latest projects
 
+- [Giuseppe-Bianc/rvandior](https://github.com/Giuseppe-Bianc/rvandior) - 
 - [Giuseppe-Bianc/MPortfilio](https://github.com/Giuseppe-Bianc/MPortfilio) - 
 - [Giuseppe-Bianc/PPortfolio](https://github.com/Giuseppe-Bianc/PPortfolio) - 
 - [Giuseppe-Bianc/vkl](https://github.com/Giuseppe-Bianc/vkl) - a  vulkan.hpp  renderer
@@ -50,7 +51,6 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/testp](https://github.com/Giuseppe-Bianc/testp) - 
 - [Giuseppe-Bianc/GLVEX](https://github.com/Giuseppe-Bianc/GLVEX) - 
 - [Giuseppe-Bianc/cii](https://github.com/Giuseppe-Bianc/cii) - 
-- [Giuseppe-Bianc/rusts](https://github.com/Giuseppe-Bianc/rusts) - 
 
 
 
