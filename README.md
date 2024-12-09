@@ -28,6 +28,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 👷 Check out what I'm currently working on
 
+- [Giuseppe-Bianc/vandior-f](https://github.com/Giuseppe-Bianc/vandior-f) -  (today)
 - [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (2 days ago)
 - [Giuseppe-Bianc/nobs](https://github.com/Giuseppe-Bianc/nobs) -  (2 days ago)
 - [Giuseppe-Bianc/vndr](https://github.com/Giuseppe-Bianc/vndr) - a  reduced implementation of  the Vandior  code (1 week ago)
@@ -37,10 +38,10 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/vkl](https://github.com/Giuseppe-Bianc/vkl) - a  vulkan.hpp  renderer (3 months ago)
 - [Giuseppe-Bianc/vulkrt](https://github.com/Giuseppe-Bianc/vulkrt) -  (4 months ago)
 - [Giuseppe-Bianc/SDLRT](https://github.com/Giuseppe-Bianc/SDLRT) - a sdl raytracer using c&#43;&#43;20 (4 months ago)
-- [Giuseppe-Bianc/SGLDM](https://github.com/Giuseppe-Bianc/SGLDM) - opengl simple renderer (5 months ago)
 
 #### 🌱 My latest projects
 
+- [Giuseppe-Bianc/vandior-f](https://github.com/Giuseppe-Bianc/vandior-f) - 
 - [Giuseppe-Bianc/nobs](https://github.com/Giuseppe-Bianc/nobs) - 
 - [Giuseppe-Bianc/vndr](https://github.com/Giuseppe-Bianc/vndr) - a  reduced implementation of  the Vandior  code
 - [Giuseppe-Bianc/rvandior](https://github.com/Giuseppe-Bianc/rvandior) - 
@@ -50,7 +51,6 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/vulkrt](https://github.com/Giuseppe-Bianc/vulkrt) - 
 - [Giuseppe-Bianc/SDLRT](https://github.com/Giuseppe-Bianc/SDLRT) - a sdl raytracer using c&#43;&#43;20
 - [Giuseppe-Bianc/SGLDM](https://github.com/Giuseppe-Bianc/SGLDM) - opengl simple renderer
-- [Giuseppe-Bianc/testp](https://github.com/Giuseppe-Bianc/testp) - 
 
 
 
