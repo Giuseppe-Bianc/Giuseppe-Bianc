@@ -28,6 +28,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 👷 Check out what I'm currently working on
 
+- [Giuseppe-Bianc/vndantkt](https://github.com/Giuseppe-Bianc/vndantkt) -  (today)
 - [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (4 days ago)
 - [Giuseppe-Bianc/vandiorsp](https://github.com/Giuseppe-Bianc/vandiorsp) - a spring boot web app (5 days ago)
 - [Giuseppe-Bianc/telegramIntgr](https://github.com/Giuseppe-Bianc/telegramIntgr) -  (1 week ago)
@@ -37,10 +38,10 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/rvandior](https://github.com/Giuseppe-Bianc/rvandior) -  (1 month ago)
 - [Giuseppe-Bianc/MPortfilio](https://github.com/Giuseppe-Bianc/MPortfilio) -  (2 months ago)
 - [Giuseppe-Bianc/PPortfolio](https://github.com/Giuseppe-Bianc/PPortfolio) -  (2 months ago)
-- [Giuseppe-Bianc/vkl](https://github.com/Giuseppe-Bianc/vkl) - a  vulkan.hpp  renderer (4 months ago)
 
 #### 🌱 My latest projects
 
+- [Giuseppe-Bianc/vndantkt](https://github.com/Giuseppe-Bianc/vndantkt) - 
 - [Giuseppe-Bianc/telegramIntgr](https://github.com/Giuseppe-Bianc/telegramIntgr) - 
 - [Giuseppe-Bianc/vandiorsp](https://github.com/Giuseppe-Bianc/vandiorsp) - a spring boot web app
 - [Giuseppe-Bianc/vandior-f](https://github.com/Giuseppe-Bianc/vandior-f) - 
@@ -50,7 +51,6 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/MPortfilio](https://github.com/Giuseppe-Bianc/MPortfilio) - 
 - [Giuseppe-Bianc/PPortfolio](https://github.com/Giuseppe-Bianc/PPortfolio) - 
 - [Giuseppe-Bianc/vkl](https://github.com/Giuseppe-Bianc/vkl) - a  vulkan.hpp  renderer
-- [Giuseppe-Bianc/vulkrt](https://github.com/Giuseppe-Bianc/vulkrt) - 
 
 
 
