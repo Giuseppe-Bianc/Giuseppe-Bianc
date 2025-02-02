@@ -29,6 +29,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 #### 👷 Check out what I'm currently working on
 
 - [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (today)
+- [Giuseppe-Bianc/SDL3RT](https://github.com/Giuseppe-Bianc/SDL3RT) - a sdl3 application (today)
 - [Giuseppe-Bianc/VandiorBase](https://github.com/Giuseppe-Bianc/VandiorBase) -  (1 week ago)
 - [Giuseppe-Bianc/vndantkt](https://github.com/Giuseppe-Bianc/vndantkt) -  (1 week ago)
 - [Giuseppe-Bianc/vandiorsp](https://github.com/Giuseppe-Bianc/vandiorsp) - a spring boot web app (2 weeks ago)
@@ -37,10 +38,10 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/nobs](https://github.com/Giuseppe-Bianc/nobs) -  (1 month ago)
 - [Giuseppe-Bianc/vndr](https://github.com/Giuseppe-Bianc/vndr) - a  reduced implementation of  the Vandior  code (2 months ago)
 - [Giuseppe-Bianc/rvandior](https://github.com/Giuseppe-Bianc/rvandior) -  (2 months ago)
-- [Giuseppe-Bianc/MPortfilio](https://github.com/Giuseppe-Bianc/MPortfilio) -  (2 months ago)
 
 #### 🌱 My latest projects
 
+- [Giuseppe-Bianc/SDL3RT](https://github.com/Giuseppe-Bianc/SDL3RT) - a sdl3 application
 - [Giuseppe-Bianc/VandiorBase](https://github.com/Giuseppe-Bianc/VandiorBase) - 
 - [Giuseppe-Bianc/vndantkt](https://github.com/Giuseppe-Bianc/vndantkt) - 
 - [Giuseppe-Bianc/telegramIntgr](https://github.com/Giuseppe-Bianc/telegramIntgr) - 
@@ -50,7 +51,6 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/vndr](https://github.com/Giuseppe-Bianc/vndr) - a  reduced implementation of  the Vandior  code
 - [Giuseppe-Bianc/rvandior](https://github.com/Giuseppe-Bianc/rvandior) - 
 - [Giuseppe-Bianc/MPortfilio](https://github.com/Giuseppe-Bianc/MPortfilio) - 
-- [Giuseppe-Bianc/PPortfolio](https://github.com/Giuseppe-Bianc/PPortfolio) - 
 
 
 
