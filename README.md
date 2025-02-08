@@ -28,8 +28,8 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 👷 Check out what I'm currently working on
 
-- [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (today)
-- [Giuseppe-Bianc/SDL3RT](https://github.com/Giuseppe-Bianc/SDL3RT) - a sdl3 application (5 days ago)
+- [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (1 day ago)
+- [Giuseppe-Bianc/SDL3RT](https://github.com/Giuseppe-Bianc/SDL3RT) - a sdl3 application (6 days ago)
 - [Giuseppe-Bianc/vndantkt](https://github.com/Giuseppe-Bianc/vndantkt) -  (2 weeks ago)
 - [Giuseppe-Bianc/VandiorBase](https://github.com/Giuseppe-Bianc/VandiorBase) -  (2 weeks ago)
 - [Giuseppe-Bianc/vandiorsp](https://github.com/Giuseppe-Bianc/vandiorsp) - a spring boot web app (3 weeks ago)
