@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 👷 Check out what I'm currently working on
 
-- [Giuseppe-Bianc/SDL3RAYRT](https://github.com/Giuseppe-Bianc/SDL3RAYRT) - a raytracer in  sdl3 (2 days ago)
+- [Giuseppe-Bianc/SDL3RAYRT](https://github.com/Giuseppe-Bianc/SDL3RAYRT) - a raytracer in  sdl3 (today)
 - [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (2 days ago)
 - [Giuseppe-Bianc/SDL3RT](https://github.com/Giuseppe-Bianc/SDL3RT) - a sdl3 application (2 weeks ago)
 - [Giuseppe-Bianc/vndantkt](https://github.com/Giuseppe-Bianc/vndantkt) -  (1 month ago)
