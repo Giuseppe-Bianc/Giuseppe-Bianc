@@ -28,9 +28,9 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 👷 Check out what I'm currently working on
 
+- [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (today)
 - [Giuseppe-Bianc/OGL](https://github.com/Giuseppe-Bianc/OGL) - OpenGL and  c&#43;&#43;20 (1 day ago)
 - [Giuseppe-Bianc/Primal](https://github.com/Giuseppe-Bianc/Primal) -  (4 days ago)
-- [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (5 days ago)
 - [Giuseppe-Bianc/SDL3RAYRT](https://github.com/Giuseppe-Bianc/SDL3RAYRT) - a raytracer in  sdl3 (5 days ago)
 - [Giuseppe-Bianc/SDL3RT](https://github.com/Giuseppe-Bianc/SDL3RT) - a sdl3 application (3 weeks ago)
 - [Giuseppe-Bianc/VandiorBase](https://github.com/Giuseppe-Bianc/VandiorBase) -  (1 month ago)
