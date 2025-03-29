@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 👷 Check out what I'm currently working on
 
-- [Giuseppe-Bianc/kohit](https://github.com/Giuseppe-Bianc/kohit) -  (1 day ago)
+- [Giuseppe-Bianc/kohit](https://github.com/Giuseppe-Bianc/kohit) -  (today)
 - [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (2 days ago)
 - [Giuseppe-Bianc/niagara](https://github.com/Giuseppe-Bianc/niagara) -  (3 days ago)
 - [Giuseppe-Bianc/Vulktrt](https://github.com/Giuseppe-Bianc/Vulktrt) - a vulkan tutorial (5 days ago)
