@@ -28,6 +28,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 👷 Check out what I'm currently working on
 
+- [Giuseppe-Bianc/MPVGE](https://github.com/Giuseppe-Bianc/MPVGE) - my personal c&#43;&#43; vulkan game  engine (today)
 - [Giuseppe-Bianc/kohit](https://github.com/Giuseppe-Bianc/kohit) -  (today)
 - [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (2 days ago)
 - [Giuseppe-Bianc/niagara](https://github.com/Giuseppe-Bianc/niagara) -  (3 days ago)
@@ -36,11 +37,11 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/Primal](https://github.com/Giuseppe-Bianc/Primal) -  (3 weeks ago)
 - [Giuseppe-Bianc/SDL3RAYRT](https://github.com/Giuseppe-Bianc/SDL3RAYRT) - a raytracer in  sdl3 (4 weeks ago)
 - [Giuseppe-Bianc/SDL3RT](https://github.com/Giuseppe-Bianc/SDL3RT) - a sdl3 application (1 month ago)
-- [Giuseppe-Bianc/vndantkt](https://github.com/Giuseppe-Bianc/vndantkt) -  (2 months ago)
 - [Giuseppe-Bianc/VandiorBase](https://github.com/Giuseppe-Bianc/VandiorBase) -  (2 months ago)
 
 #### 🌱 My latest projects
 
+- [Giuseppe-Bianc/MPVGE](https://github.com/Giuseppe-Bianc/MPVGE) - my personal c&#43;&#43; vulkan game  engine
 - [Giuseppe-Bianc/kohit](https://github.com/Giuseppe-Bianc/kohit) - 
 - [Giuseppe-Bianc/niagara](https://github.com/Giuseppe-Bianc/niagara) - 
 - [Giuseppe-Bianc/Vulktrt](https://github.com/Giuseppe-Bianc/Vulktrt) - a vulkan tutorial
@@ -50,7 +51,6 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/SDL3RT](https://github.com/Giuseppe-Bianc/SDL3RT) - a sdl3 application
 - [Giuseppe-Bianc/VandiorBase](https://github.com/Giuseppe-Bianc/VandiorBase) - 
 - [Giuseppe-Bianc/vndantkt](https://github.com/Giuseppe-Bianc/vndantkt) - 
-- [Giuseppe-Bianc/telegramIntgr](https://github.com/Giuseppe-Bianc/telegramIntgr) - 
 
 
 
