@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 👷 Check out what I'm currently working on
 
-- [Giuseppe-Bianc/MPVGE](https://github.com/Giuseppe-Bianc/MPVGE) - my personal c&#43;&#43; vulkan game  engine (1 day ago)
+- [Giuseppe-Bianc/MPVGE](https://github.com/Giuseppe-Bianc/MPVGE) - my personal c&#43;&#43; vulkan game  engine (today)
 - [Giuseppe-Bianc/kohit](https://github.com/Giuseppe-Bianc/kohit) -  (3 days ago)
 - [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (5 days ago)
 - [Giuseppe-Bianc/niagara](https://github.com/Giuseppe-Bianc/niagara) -  (6 days ago)
