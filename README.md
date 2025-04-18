@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 👷 Check out what I'm currently working on
 
-- [Giuseppe-Bianc/PrimalE](https://github.com/Giuseppe-Bianc/PrimalE) - PrimalE is a 3D game engine with a WPF-based editor and a C&#43;&#43; core. It supports project creation, management, and runtime execution, providing tools for immersive game development. (1 day ago)
+- [Giuseppe-Bianc/PrimalE](https://github.com/Giuseppe-Bianc/PrimalE) - PrimalE is a 3D game engine with a WPF-based editor and a C&#43;&#43; core. It supports project creation, management, and runtime execution, providing tools for immersive game development. (today)
 - [Giuseppe-Bianc/MPVGE](https://github.com/Giuseppe-Bianc/MPVGE) - my personal c&#43;&#43; vulkan game  engine (3 days ago)
 - [Giuseppe-Bianc/Foempvge](https://github.com/Giuseppe-Bianc/Foempvge) - my  personal game  engine inspired by  the  FoE Dev Series form StableCoder (4 days ago)
 - [Giuseppe-Bianc/kohit](https://github.com/Giuseppe-Bianc/kohit) -  (2 weeks ago)
