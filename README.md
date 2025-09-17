@@ -58,7 +58,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 📓 Gists I wrote
 
-- [ubuntu configuration](https://gist.github.com/69a7278c6e627ef9135e5c707290db1a) (2 years ago)
-- [powershell confuguration](https://gist.github.com/04fd62a389ef6ec20deb5d8a05af6bb9) (2 years ago)
+- [ubuntu configuration](https://gist.github.com/69a7278c6e627ef9135e5c707290db1a) (3 years ago)
+- [powershell confuguration](https://gist.github.com/04fd62a389ef6ec20deb5d8a05af6bb9) (3 years ago)
 
 
