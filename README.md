@@ -28,8 +28,8 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 👷 Check out what I'm currently working on
 
-- [Giuseppe-Bianc/jsavrs](https://github.com/Giuseppe-Bianc/jsavrs) -  (today)
-- [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (5 days ago)
+- [Giuseppe-Bianc/jsavrs](https://github.com/Giuseppe-Bianc/jsavrs) -  (1 day ago)
+- [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (6 days ago)
 - [Giuseppe-Bianc/Portfolio](https://github.com/Giuseppe-Bianc/Portfolio) - my personal portfolio wedsite (3 weeks ago)
 - [Giuseppe-Bianc/MPVGEHPP](https://github.com/Giuseppe-Bianc/MPVGEHPP) - a vulkan  hpp  renderer implementation (6 months ago)
 - [Giuseppe-Bianc/PrimalE](https://github.com/Giuseppe-Bianc/PrimalE) - PrimalE is a 3D game engine with a WPF-based editor and a C&#43;&#43; core. It supports project creation, management, and runtime execution, providing tools for immersive game development. (7 months ago)
@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/Foempvge](https://github.com/Giuseppe-Bianc/Foempvge) - my  personal game  engine inspired by  the  FoE Dev Series form StableCoder (7 months ago)
 - [Giuseppe-Bianc/kohit](https://github.com/Giuseppe-Bianc/kohit) -  (7 months ago)
 - [Giuseppe-Bianc/niagara](https://github.com/Giuseppe-Bianc/niagara) -  (7 months ago)
-- [Giuseppe-Bianc/Vulktrt](https://github.com/Giuseppe-Bianc/Vulktrt) - a vulkan tutorial (7 months ago)
+- [Giuseppe-Bianc/Vulktrt](https://github.com/Giuseppe-Bianc/Vulktrt) - a vulkan tutorial (8 months ago)
 
 #### 🌱 My latest projects
 
