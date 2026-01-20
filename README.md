@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 👷 Check out what I'm currently working on
 
-- [Giuseppe-Bianc/jvandior](https://github.com/Giuseppe-Bianc/jvandior) - a programming language writen in java  (1 day ago)
+- [Giuseppe-Bianc/jvandior](https://github.com/Giuseppe-Bianc/jvandior) - a programming language writen in java  (today)
 - [Giuseppe-Bianc/jsavrs](https://github.com/Giuseppe-Bianc/jsavrs) -  (1 day ago)
 - [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (2 months ago)
 - [Giuseppe-Bianc/Portfolio](https://github.com/Giuseppe-Bianc/Portfolio) - my personal portfolio wedsite (2 months ago)
