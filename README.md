@@ -26,6 +26,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 #### 👷 Check out what I'm currently working on
 
 - [Giuseppe-Bianc/jsavrs](https://github.com/Giuseppe-Bianc/jsavrs) - An OS-independent programming language implemented in Rust (today)
+- [Giuseppe-Bianc/jsav](https://github.com/Giuseppe-Bianc/jsav) - a compiler writtern in c&#43;&#43;23 (today)
 - [Giuseppe-Bianc/Jsavndior](https://github.com/Giuseppe-Bianc/Jsavndior) - spring boot webb server app (3 weeks ago)
 - [Giuseppe-Bianc/jvandior](https://github.com/Giuseppe-Bianc/jvandior) - a programming language writen in java  (4 weeks ago)
 - [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (3 months ago)
@@ -34,10 +35,10 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/PrimalE](https://github.com/Giuseppe-Bianc/PrimalE) - PrimalE is a 3D game engine with a WPF-based editor and a C&#43;&#43; core. It supports project creation, management, and runtime execution, providing tools for immersive game development. (10 months ago)
 - [Giuseppe-Bianc/MPVGE](https://github.com/Giuseppe-Bianc/MPVGE) - my personal c&#43;&#43; vulkan game  engine (10 months ago)
 - [Giuseppe-Bianc/Foempvge](https://github.com/Giuseppe-Bianc/Foempvge) - my  personal game  engine inspired by  the  FoE Dev Series form StableCoder (10 months ago)
-- [Giuseppe-Bianc/kohit](https://github.com/Giuseppe-Bianc/kohit) -  (10 months ago)
 
 #### 🌱 My latest projects
 
+- [Giuseppe-Bianc/jsav](https://github.com/Giuseppe-Bianc/jsav) - a compiler writtern in c&#43;&#43;23
 - [Giuseppe-Bianc/Jsavndior](https://github.com/Giuseppe-Bianc/Jsavndior) - spring boot webb server app
 - [Giuseppe-Bianc/jvandior](https://github.com/Giuseppe-Bianc/jvandior) - a programming language writen in java 
 - [Giuseppe-Bianc/Portfolio](https://github.com/Giuseppe-Bianc/Portfolio) - my personal portfolio wedsite
@@ -47,7 +48,6 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/Foempvge](https://github.com/Giuseppe-Bianc/Foempvge) - my  personal game  engine inspired by  the  FoE Dev Series form StableCoder
 - [Giuseppe-Bianc/MPVGE](https://github.com/Giuseppe-Bianc/MPVGE) - my personal c&#43;&#43; vulkan game  engine
 - [Giuseppe-Bianc/kohit](https://github.com/Giuseppe-Bianc/kohit) - 
-- [Giuseppe-Bianc/niagara](https://github.com/Giuseppe-Bianc/niagara) - 
 
 
 
