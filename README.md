@@ -25,7 +25,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 👷 Check out what I'm currently working on
 
-- [Giuseppe-Bianc/Vantablade](https://github.com/Giuseppe-Bianc/Vantablade) - This project is a ray tracer implemented in C&#43;&#43;23 using the Vulkan API. It is designed to explore high-performance rendering techniques. The system supports GPU-accelerated computation and focuses on efficient light transport simulation. (1 day ago)
+- [Giuseppe-Bianc/Vantablade](https://github.com/Giuseppe-Bianc/Vantablade) - This project is a ray tracer implemented in C&#43;&#43;23 using the Vulkan API. It is designed to explore high-performance rendering techniques. The system supports GPU-accelerated computation and focuses on efficient light transport simulation. (today)
 - [Giuseppe-Bianc/jsav](https://github.com/Giuseppe-Bianc/jsav) - a compiler writtern in c&#43;&#43;23 (4 days ago)
 - [Giuseppe-Bianc/jsavrs](https://github.com/Giuseppe-Bianc/jsavrs) - An OS-independent programming language implemented in Rust (2 months ago)
 - [Giuseppe-Bianc/Jsavndior](https://github.com/Giuseppe-Bianc/Jsavndior) - spring boot webb server app (3 months ago)
