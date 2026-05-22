@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/Jsavndior](https://github.com/Giuseppe-Bianc/Jsavndior) - spring boot webb server app (3 months ago)
 - [Giuseppe-Bianc/jvandior](https://github.com/Giuseppe-Bianc/jvandior) - a programming language writen in java  (4 months ago)
 - [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (6 months ago)
-- [Giuseppe-Bianc/Portfolio](https://github.com/Giuseppe-Bianc/Portfolio) - my personal portfolio wedsite (6 months ago)
+- [Giuseppe-Bianc/Portfolio](https://github.com/Giuseppe-Bianc/Portfolio) - my personal portfolio wedsite (7 months ago)
 
 #### 🌱 My latest projects
 
