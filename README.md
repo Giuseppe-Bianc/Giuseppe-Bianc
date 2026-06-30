@@ -25,6 +25,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 👷 Check out what I'm currently working on
 
+- [Giuseppe-Bianc/Dersco](https://github.com/Giuseppe-Bianc/Dersco) -  (today)
 - [Giuseppe-Bianc/Vantablade](https://github.com/Giuseppe-Bianc/Vantablade) - This project is a ray tracer implemented in C&#43;&#43;23 using the Vulkan API. It is designed to explore high-performance rendering techniques. The system supports GPU-accelerated computation and focuses on efficient light transport simulation. (2 weeks ago)
 - [Giuseppe-Bianc/jsav](https://github.com/Giuseppe-Bianc/jsav) - a compiler writtern in c&#43;&#43;23 (2 months ago)
 - [Giuseppe-Bianc/jsavrs](https://github.com/Giuseppe-Bianc/jsavrs) - An OS-independent programming language implemented in Rust (4 months ago)
@@ -35,6 +36,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 🌱 My latest projects
 
+- [Giuseppe-Bianc/Dersco](https://github.com/Giuseppe-Bianc/Dersco) - 
 - [Giuseppe-Bianc/Vantablade](https://github.com/Giuseppe-Bianc/Vantablade) - This project is a ray tracer implemented in C&#43;&#43;23 using the Vulkan API. It is designed to explore high-performance rendering techniques. The system supports GPU-accelerated computation and focuses on efficient light transport simulation.
 - [Giuseppe-Bianc/jsav](https://github.com/Giuseppe-Bianc/jsav) - a compiler writtern in c&#43;&#43;23
 - [Giuseppe-Bianc/Jsavndior](https://github.com/Giuseppe-Bianc/Jsavndior) - spring boot webb server app
@@ -44,7 +46,6 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 - [Giuseppe-Bianc/MPVGEHPP](https://github.com/Giuseppe-Bianc/MPVGEHPP) - a vulkan  hpp  renderer implementation
 - [Giuseppe-Bianc/PrimalE](https://github.com/Giuseppe-Bianc/PrimalE) - PrimalE is a 3D game engine with a WPF-based editor and a C&#43;&#43; core. It supports project creation, management, and runtime execution, providing tools for immersive game development.
 - [Giuseppe-Bianc/Foempvge](https://github.com/Giuseppe-Bianc/Foempvge) - my  personal game  engine inspired by  the  FoE Dev Series form StableCoder
-- [Giuseppe-Bianc/MPVGE](https://github.com/Giuseppe-Bianc/MPVGE) - my personal c&#43;&#43; vulkan game  engine
 
 
 
