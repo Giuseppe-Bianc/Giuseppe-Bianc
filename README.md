@@ -25,14 +25,14 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 👷 Check out what I'm currently working on
 
-- [Giuseppe-Bianc/Dersco](https://github.com/Giuseppe-Bianc/Dersco) -  (1 day ago)
+- [Giuseppe-Bianc/Dersco](https://github.com/Giuseppe-Bianc/Dersco) -  (2 days ago)
 - [Giuseppe-Bianc/Vantablade](https://github.com/Giuseppe-Bianc/Vantablade) - This project is a ray tracer implemented in C&#43;&#43;23 using the Vulkan API. It is designed to explore high-performance rendering techniques. The system supports GPU-accelerated computation and focuses on efficient light transport simulation. (1 month ago)
 - [Giuseppe-Bianc/jsav](https://github.com/Giuseppe-Bianc/jsav) - a compiler writtern in c&#43;&#43;23 (2 months ago)
 - [Giuseppe-Bianc/jsavrs](https://github.com/Giuseppe-Bianc/jsavrs) - An OS-independent programming language implemented in Rust (5 months ago)
 - [Giuseppe-Bianc/Jsavndior](https://github.com/Giuseppe-Bianc/Jsavndior) - spring boot webb server app (5 months ago)
 - [Giuseppe-Bianc/jvandior](https://github.com/Giuseppe-Bianc/jvandior) - a programming language writen in java  (6 months ago)
 - [Giuseppe-Bianc/Vandior](https://github.com/Giuseppe-Bianc/Vandior) - A modern c&#43;&#43;20 transpiler (8 months ago)
-- [Giuseppe-Bianc/Portfolio](https://github.com/Giuseppe-Bianc/Portfolio) - my personal portfolio wedsite (8 months ago)
+- [Giuseppe-Bianc/Portfolio](https://github.com/Giuseppe-Bianc/Portfolio) - my personal portfolio wedsite (9 months ago)
 
 #### 🌱 My latest projects
 
