@@ -1,25 +1,48 @@
 # User Memory: Giuseppe Bianconi
 
-## Identity and background
+## Identity and personal context
 
-- Name: Giuseppe Bianconi.
-- Date of birth: 9 April 2001.
-- Italian, with roots in Basilicata. Basilicata is described by Giuseppe as an important part of his personal background and as a place that shaped his values and outlook.
-- He has presented himself publicly as Giuseppe Bianconi, although the existing README contains inconsistent spellings of his surname. Prefer **Giuseppe Bianconi** when referring to him.
-- Public contact email listed in his GitHub profile: `bianconig6@gmail.com`.
+- Preferred name: Giuseppe Bianconi.
+- The public README contains inconsistent spellings of the surname. Use **Bianconi** as the normalized spelling.
+- The README states that Giuseppe was born on 9 April 2001 and is of Italian descent, with roots in Basilicata.
+- Giuseppe describes Basilicata as an important part of his background and as a place that influenced his values and outlook.
+- Exact birth date and regional background are biographical context, not necessary for most technical interactions. Do not surface them unless relevant.
 
 ## Education
 
-- Giuseppe studied Computer Science at the Università degli Studi della Basilicata (Unibas), within the Department of Mathematics, Informatics, and Economics (DIMIE).
-- His academic background includes fundamental computer science principles, programming methodologies, software development, analytical problem solving, and computational problem solving.
-- His public profile describes his studies as combining coursework with practical projects and emphasizes critical thinking for complex computational challenges.
-- When discussing his academic or technical background, distinguish between what is explicitly documented and what is inferred from his projects. Do not invent degrees, grades, certifications, employment history, or professional titles that are not established.
+- Giuseppe's public profile describes a Bachelor's degree path in Computer Science at the Università degli Studi della Basilicata (Unibas), within the Department of Mathematics, Informatics, and Economics (DIMIE).
+- The README describes coursework and practical projects covering fundamental computer science principles, programming methodologies, software development, programming, and analytical problem solving.
+- The README's statement that he was in his third year is time-dependent and should not be treated as his current academic status without verification.
+- Do not infer graduation, current enrollment, grades, certifications, employment, or professional titles unless supported by newer evidence.
+
+## Communication and response preferences
+
+### General style
+
+- Giuseppe prefers direct, precise, detailed, and technically rigorous responses.
+- He wants weak ideas, flawed assumptions, architectural problems, unnecessary complexity, and unsupported reasoning to be identified explicitly rather than softened.
+- When an approach is poor, state that clearly and explain the concrete reasons. Do not praise an approach merely because it works.
+- Stress-test proposed solutions for correctness, hidden assumptions, maintainability, complexity, performance, coupling, failure modes, and suitability for the stated constraints.
+- Prefer concrete reasoning, implementation-level detail, and actionable recommendations over generic advice.
+- When multiple approaches are viable, compare them using explicit criteria such as correctness, complexity, performance, maintainability, portability, implementation effort, and architectural consequences.
+- State uncertainty when evidence is insufficient. Do not fill gaps with speculation presented as fact.
+
+### Writing and formatting
+
+- Avoid em dashes. Use commas, semicolons, parentheses, or separate sentences instead.
+- Avoid clichés, metaphors, rhetorical questions, unnecessary filler, excessive hedging, and generic setup language.
+- Avoid unnecessary adjectives and adverbs.
+- Prefer coherent prose over choppy, fragmentary sentences.
+- For professional or academic writing, prioritize logical structure, semantic precision, coherence, grammatical correctness, and consistent register.
+- When revising text, preserve the intended meaning and do not introduce unsupported claims.
+- When a requested output has a strict structure or format, follow it exactly.
+- When useful, explain the reason for substantive edits and their effect on clarity or precision.
 
 ## Technical profile
 
-Giuseppe is strongly oriented toward software engineering, programming languages, compilers, graphics, rendering, game-engine development, systems programming, and technically demanding personal projects.
+### Explicitly listed technologies
 
-### Languages and technologies explicitly represented in his public profile
+The public README explicitly lists or demonstrates use of:
 
 - C++
 - Java
@@ -28,174 +51,143 @@ Giuseppe is strongly oriented toward software engineering, programming languages
 - Vulkan
 - Spring Boot
 - WPF
-- C++20 and C++23 development
+- C++20
+- C++23
 
-### Technical interests demonstrated by projects
+The presence of a technology in the profile or a repository demonstrates use, not necessarily mastery. Do not equate project exposure with equal proficiency across all technologies.
+
+### Demonstrated technical areas
+
+Giuseppe's public projects show recurring work in:
 
 - Programming language design and implementation.
-- Compiler construction and transpilers.
-- Systems programming, including Rust.
-- High-performance C++ development.
-- GPU programming and Vulkan-based rendering.
+- Compiler construction.
+- Transpilers and source-to-source translation.
+- Systems-oriented programming.
+- Modern C++ development.
+- Rust development.
+- Java development and Spring Boot web applications.
+- Vulkan and graphics programming.
+- GPU-accelerated rendering.
 - Ray tracing and light transport simulation.
-- Graphics engines and rendering infrastructure.
-- 3D game-engine architecture.
-- Web application development with Spring Boot.
-- Developer tooling and personal development environments.
-- Algorithms and problem solving, including LeetCode.
-- Operating-system-independent tooling and software.
+- Rendering infrastructure.
+- 3D game-engine development.
+- Developer tooling and configuration.
+- Algorithmic problem solving, including LeetCode.
 
 ## Projects and repositories
 
-The following projects are explicitly associated with Giuseppe's public GitHub profile. Treat their descriptions as current-profile evidence rather than assuming that every repository is still actively maintained.
+These repositories are explicitly associated with Giuseppe's public GitHub profile. Repository activity timestamps in the README are time-dependent and must not be interpreted as proof of current activity without verification.
 
 ### Dersco
 
 - Repository: `Giuseppe-Bianc/Dersco`.
-- It is listed as a current and recent project in the public profile.
-- The README does not provide a substantive description, so Hermes should not fabricate its purpose. If project-specific information is needed, inspect the repository before making claims.
+- Listed in the README among current and recent projects.
+- The README does not provide a substantive description. Do not infer the project's purpose from its name. Inspect the repository when project-specific information is required.
 
 ### jsavrs
 
 - Repository: `Giuseppe-Bianc/jsavrs`.
-- An operating-system-independent programming language implemented in Rust.
-- Relevant interests: Rust, programming-language implementation, language architecture, portability, and systems-level engineering.
+- Described as an operating-system-independent programming language implemented in Rust.
+- Relevant demonstrated area: programming-language implementation with Rust and portability considerations.
 
 ### jsav
 
 - Repository: `Giuseppe-Bianc/jsav`.
-- A compiler implemented in C++23.
-- Relevant interests: compiler construction, C++23, parsing, language implementation, code generation, and systems programming.
+- Described as a compiler written in C++23.
+- Relevant demonstrated areas: compiler construction and modern C++.
 
 ### Vantablade
 
 - Repository: `Giuseppe-Bianc/Vantablade`.
-- A ray tracer implemented in C++23 using the Vulkan API.
-- The project explores high-performance rendering techniques, GPU-accelerated computation, and efficient light transport simulation.
-- This project is a strong signal that Giuseppe is interested in low-level graphics programming and performance-oriented engineering.
+- Described as a ray tracer implemented in C++23 using the Vulkan API.
+- The project is described as exploring high-performance rendering techniques, GPU-accelerated computation, and efficient light transport simulation.
 
 ### Jsavndior
 
 - Repository: `Giuseppe-Bianc/Jsavndior`.
-- A Spring Boot web server application.
-- Relevant interests: Java, Spring Boot, backend development, and web-server architecture.
+- Described as a Spring Boot web server application.
+- Relevant demonstrated areas: Java, Spring Boot, backend and web-server development.
 
 ### jvandior
 
 - Repository: `Giuseppe-Bianc/jvandior`.
-- A programming language written in Java.
-- Relevant interests: language design, Java, interpreters or compilers, parsing, runtime architecture, and programming-language experimentation.
+- Described as a programming language written in Java.
+- Relevant demonstrated area: programming-language development using Java.
 
 ### Vandior
 
 - Repository: `Giuseppe-Bianc/Vandior`.
-- A modern C++20 transpiler.
-- Relevant interests: C++20, source-to-source translation, compiler architecture, language tooling, and modern C++.
+- Described as a modern C++20 transpiler.
+- Relevant demonstrated areas: C++20, transpiler development, and language tooling.
 
 ### Portfolio
 
 - Repository: `Giuseppe-Bianc/Portfolio`.
-- Giuseppe's personal portfolio website.
-- Relevant to his professional presentation and public technical identity.
+- Described as Giuseppe's personal portfolio website.
 
 ### MPVGEHPP
 
 - Repository: `Giuseppe-Bianc/MPVGEHPP`.
-- A Vulkan-Hpp renderer implementation.
-- Relevant interests: Vulkan, C++, rendering, graphics APIs, and modern C++ bindings.
+- Described as a Vulkan-Hpp renderer implementation.
+- Relevant demonstrated areas: Vulkan, C++, rendering, and graphics APIs.
 
 ### PrimalE
 
 - Repository: `Giuseppe-Bianc/PrimalE`.
-- A 3D game engine with a WPF-based editor and a C++ core.
-- Supports project creation, management, and runtime execution.
-- Relevant interests: engine architecture, C++, WPF tooling, editor design, runtime systems, and game development.
+- Described as a 3D game engine with a WPF-based editor and a C++ core.
+- The README states that it supports project creation, management, and runtime execution.
 
 ### Foempvge
 
 - Repository: `Giuseppe-Bianc/Foempvge`.
-- A personal game engine inspired by StableCoder's FoE Dev Series.
-- Relevant interests: game-engine architecture, rendering, low-level programming, and learning through substantial from-scratch implementations.
+- Described as a personal game engine inspired by the FoE Dev Series from StableCoder.
 
-## Development philosophy inferred from project history
+## Technical interaction guidance
 
-- Giuseppe appears to learn effectively through implementation rather than relying exclusively on theoretical study.
-- He repeatedly builds substantial systems from scratch, including programming languages, compilers, transpilers, renderers, ray tracers, and game engines.
-- His project selection indicates a preference for understanding how software works at a lower level instead of treating frameworks as opaque abstractions.
-- He appears comfortable moving between abstraction levels, from language syntax and compiler infrastructure to graphics APIs and application-level web development.
-- When helping with technical problems, prioritize explanations that expose underlying mechanisms, architecture, tradeoffs, and implementation details.
-- Avoid explanations that stop at surface-level API usage when a deeper architectural explanation would be useful.
-- When proposing a solution, distinguish clearly between a quick pragmatic solution and a technically robust or architecturally principled solution.
-- For performance-related questions, discuss complexity, allocation behavior, memory access, synchronization, GPU/CPU boundaries, compilation costs, and other relevant low-level factors when applicable.
-- For language and compiler questions, discuss lexical analysis, parsing, ASTs, semantic analysis, intermediate representations, code generation, runtime design, and diagnostics when relevant rather than treating the compiler as a black box.
-- For graphics questions, discuss the rendering pipeline, resource lifetime, synchronization, GPU execution, memory transfers, shader stages, and Vulkan-specific constraints when relevant.
+- For technical questions, prefer explanations that expose underlying mechanisms, architecture, tradeoffs, and implementation constraints when those details are relevant.
+- Avoid treating frameworks, APIs, compilers, rendering systems, or other complex components as black boxes when the user is asking about their internal behavior.
+- For architecture and code review, evaluate the design critically instead of focusing only on whether the code compiles or produces the expected output.
+- For performance questions, consider algorithmic complexity, allocations, memory access, synchronization, CPU/GPU boundaries, compilation costs, and other relevant low-level factors.
+- For programming-language and compiler questions, discuss the relevant stages and representations, such as lexical analysis, parsing, ASTs, semantic analysis, intermediate representations, code generation, runtime design, and diagnostics, when applicable.
+- For graphics and Vulkan questions, discuss rendering stages, resource lifetime, synchronization, GPU execution, memory transfers, shader stages, and Vulkan-specific constraints when applicable.
+- Distinguish quick pragmatic solutions from technically robust or architecturally principled solutions.
+- Prefer extending or deepening technically meaningful work over trivial tutorial-style projects when the user asks for project or learning recommendations, unless the user explicitly requests beginner-level material.
 
-## Current technical orientation
+## Interests and recurring technical direction
 
-Based on the public profile, Giuseppe's strongest demonstrated technical direction is toward C++ and systems-oriented development, with substantial interest in Rust, Java, programming languages, compilers, graphics, and Vulkan.
+- Giuseppe has repeatedly worked on substantial projects involving programming languages, compilers, transpilers, rendering, Vulkan, ray tracing, and game engines.
+- His public project history demonstrates recurring interest in both high-level application development and lower-level systems or graphics work.
+- The strongest demonstrated technical direction is modern C++ and systems-oriented development, with significant project evidence involving Rust, Java, programming languages, compilers, Vulkan, rendering, and game engines.
+- Do not convert this project history into unsupported claims about professional specialization, employment, or mastery.
 
-Do not assume equal proficiency in every listed technology. The presence of a language or framework in a repository demonstrates usage, not mastery.
+## Public technical presence
 
-## Problem-solving and collaboration preferences
+- GitHub username: `Giuseppe-Bianc`.
+- The README lists a LinkedIn profile associated with Giuseppe Bianconi.
+- The README lists a Stack Overflow profile associated with Giuseppe Bianconi, user `28698845`.
+- The README includes LeetCode statistics.
+- Treat these as public profile references. Do not infer private information from them.
 
-- Giuseppe benefits from direct, technically rigorous feedback.
-- He prefers weak ideas, flawed assumptions, architectural problems, and unnecessary complexity to be identified explicitly rather than softened.
-- When reviewing an implementation, stress-test the design. Look for correctness problems, hidden assumptions, unnecessary abstraction, maintainability issues, performance bottlenecks, poor naming, coupling, and failure modes.
-- Do not praise code merely because it works. Evaluate whether it is correct, maintainable, understandable, efficient, and appropriate for its intended constraints.
-- If an approach is poor, say so and explain precisely why. Provide a better alternative when one exists.
-- Prefer concrete examples, implementation-level reasoning, and actionable recommendations over generic advice.
-- If there are multiple viable approaches, compare them by explicit criteria such as complexity, performance, maintainability, portability, implementation effort, and architectural consequences.
-- State uncertainty when evidence is insufficient. Do not fill gaps with invented facts.
+## Temporal and evidence rules
 
-## Writing and communication preferences
+- Public-profile information can become obsolete. When the current state matters, verify it against the current repository or another current source instead of relying on this memory alone.
+- Repository activity timestamps in the README are historical indicators, not proof of current maintenance, completion, employment, or project priority.
+- Do not claim that a project is production-ready, secure, performant, complete, or actively maintained unless current repository evidence supports the claim.
+- The README contains typographical errors and inconsistent wording. Normalize obvious spelling and grammar errors when communicating with Giuseppe while preserving the technical meaning.
+- Do not infer employment, salary, financial status, relationships, health information, political views, religious beliefs, or other sensitive personal information from the public technical profile.
 
-- Giuseppe prefers precise, detailed, meticulous, and complete analysis when asking for editing, revision, or technical documentation.
-- For professional or academic writing, prioritize logical structure, semantic precision, coherence, grammatical correctness, and consistent register.
-- When revising text, preserve the author's intended meaning and avoid introducing unsupported claims.
-- He values traceable reasoning behind edits. When useful, explain what changed, why it changed, and what effect the change has on clarity or precision.
-- Avoid filler, unnecessary repetition, vague claims, and ornamental language.
-- Prefer direct formulations and technically accurate terminology.
-- Do not use em dashes in responses. Use commas, semicolons, parentheses, or separate sentences instead.
-- Avoid clichés, rhetorical questions, generic setup language, and unnecessary hedging.
-- When the requested output has a strict structure, follow it exactly.
+## Practical use by Hermes Agent
 
-## Personal development context
+1. Personalize technical explanations toward the user's demonstrated areas when relevant, without assuming that every listed technology is a current priority.
+2. Use direct and technically rigorous feedback, especially for architecture, code, design, and project decisions.
+3. Stress-test proposed solutions and identify concrete weaknesses rather than optimizing for reassurance.
+4. Prefer implementation details, tradeoffs, and underlying mechanisms when they improve the answer.
+5. Verify repository-specific facts when they matter, especially for projects whose README description is incomplete or whose activity may have changed.
+6. Keep facts, preferences, demonstrated activities, goals, and inferences separate. Do not turn an inference into a biographical fact.
+7. Treat time-dependent academic and project information as potentially stale unless it has been recently verified.
 
-- Giuseppe's public technical work suggests a strong interest in building an extensive portfolio of difficult software projects.
-- His projects span multiple languages and domains, which suggests that he values breadth together with low-level technical depth.
-- When suggesting learning paths or projects, favor projects that reinforce his existing trajectory in systems programming, compilers, graphics, rendering, game engines, and language design unless he explicitly requests a different direction.
-- Avoid recommending trivial tutorial projects when a more technically meaningful extension of an existing project would provide greater learning value.
+## Sources
 
-## Public online presence
-
-- GitHub: `Giuseppe-Bianc`.
-- LinkedIn profile is listed in the GitHub README as `giuseppe-bianconi-12b876339`.
-- Stack Overflow profile is listed as user `28698845`, Giuseppe Bianconi.
-- The public GitHub profile also includes LeetCode statistics.
-- Treat these links as public profile references. Do not infer private information from them without explicit evidence.
-
-## Repository and evidence handling rules
-
-- The canonical public source for the technical profile is Giuseppe's GitHub repository and the repositories linked from it.
-- The profile can change over time. If a current state matters, inspect the current repository rather than relying on this memory file alone.
-- The README contains some typographical inconsistencies, including misspellings of Giuseppe's surname and descriptions of projects. Normalize obvious spelling errors when communicating with Giuseppe, but preserve technical meaning.
-- Do not infer employment, salary, location, relationships, health information, political views, religious beliefs, or other sensitive personal information from technical projects or public profile data.
-- Do not treat repository activity timestamps as proof of ongoing employment, project completion, or project importance.
-- Do not claim that a project is production-ready, performant, secure, or complete unless repository evidence supports the claim.
-
-## How Hermes should use this memory
-
-1. Use this file to personalize technical explanations and recommendations.
-2. Prefer C++, Rust, Java, Vulkan, compiler construction, programming languages, rendering, and game-engine topics when choosing technically relevant examples, unless the user specifies another domain.
-3. When Giuseppe asks for architecture or code review, analyze the design critically rather than merely making it compile.
-4. When Giuseppe asks for learning or career guidance, connect recommendations to his demonstrated project trajectory and identify gaps that materially limit his goals.
-5. When Giuseppe asks to improve technical writing, preserve the technical claim set unless additions are explicitly requested or clearly flagged first.
-6. Verify repository-specific details when they matter. Do not manufacture details about projects whose public descriptions are incomplete.
-7. Treat this file as contextual memory, not as an authoritative source for facts that may have changed.
-
-## Source
-
-Primary public source consulted for this profile:
-- `https://github.com/Giuseppe-Bianc/Giuseppe-Bianc/blob/main/README.md`
-
-The profile above is based on information explicitly present in that README and on user-provided communication preferences. Where a statement is an inference, it is labeled or phrased as such rather than presented as an established fact.
+- Primary public source: `https://github.com/Giuseppe-Bianc/Giuseppe-Bianc/blob/main/README.md`.
+- User-provided communication preferences are used only for response style and interaction behavior, not as evidence for biographical or technical claims.
