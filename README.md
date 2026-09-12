@@ -25,7 +25,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 👷 Check out what I'm currently working on
 
-- [Giuseppe-Bianc/Descar](https://github.com/Giuseppe-Bianc/Descar) -  (today)
+- [Giuseppe-Bianc/Descar](https://github.com/Giuseppe-Bianc/Descar) -  (1 day ago)
 - [Giuseppe-Bianc/Dersco](https://github.com/Giuseppe-Bianc/Dersco) -  (1 week ago)
 - [Giuseppe-Bianc/jsavrs](https://github.com/Giuseppe-Bianc/jsavrs) - An OS-independent programming language implemented in Rust (1 month ago)
 - [Giuseppe-Bianc/jsav](https://github.com/Giuseppe-Bianc/jsav) - a compiler writtern in c&#43;&#43;23 (1 month ago)
@@ -54,7 +54,7 @@ src="https://img.shields.io/github/followers/Giuseppe-Bianc?logo=github&style=fo
 
 #### 📓 Gists I wrote
 
-- [ubuntu configuration](https://gist.github.com/69a7278c6e627ef9135e5c707290db1a) (3 years ago)
-- [powershell confuguration](https://gist.github.com/04fd62a389ef6ec20deb5d8a05af6bb9) (3 years ago)
+- [ubuntu configuration](https://gist.github.com/69a7278c6e627ef9135e5c707290db1a) (4 years ago)
+- [powershell confuguration](https://gist.github.com/04fd62a389ef6ec20deb5d8a05af6bb9) (4 years ago)
 
 
